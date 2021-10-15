@@ -1,0 +1,17 @@
+.foods-section {
+  margin-bottom: 8em;
+  margin-top: 0;
+}
+.foods-section-title {
+  text-align: center;
+  margin: 0 auto;
+}
+.foods-link {
+  display: inline-block;
+  text-decoration: none;
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 3em;
+  color: #f93f63;
+  font-weight: 500;
+}

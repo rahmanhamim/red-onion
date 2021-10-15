@@ -1,0 +1,20 @@
+img {
+  display: block;
+  width: 100%;
+}
+.banner-section {
+  background: url(../../../images/bannerbackground-edited.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 60vh;
+}
+
+.input-banner {
+  border-radius: 50px;
+}
+.input-banner:focus {
+  border: 2px solid #f93f63;
+  box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px rgb(255 0 0 / 60%);
+}

@@ -1,0 +1,19 @@
+.foods-nav-tab {
+ width: fit-content;
+ margin: 1em auto;
+}
+ul li .nav-link {
+ color: black;
+}
+ul li .nav-link:hover {
+ color: #f93f63;
+}
+
+.nav-link.active {
+ color: #f93f63 !important;
+ font-weight: bold;
+}
+
+.tabs {
+ color: red;
+}

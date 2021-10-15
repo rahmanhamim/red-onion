@@ -1,0 +1,25 @@
+.login-page {
+ background: url(../../../images/loginbg.png);
+ min-height: 95vh;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+}
+.login-input {
+ padding: 0.6em 1.2em;
+ background-color: #f3f3f3;
+}
+.login-input:focus {
+ border: 2px solid #f391a5;
+ box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px rgb(255 0 0 / 60%);
+}
+.login-provider-btn {
+ border: none;
+ border-radius: 5px;
+ padding: 0.5em 1em;
+ transition: all 300ms;
+}
+.login-provider-btn:hover {
+ color: white;
+ background-color: #4082ed;
+}
